@@ -59,7 +59,7 @@ struct Process {
 
 ### Compilation
 ```bash
-gcc Untitled-1.c -o scheduler.exe
+gcc cpu_scheduler_simulator.c -o scheduler.exe
 ```
 
 ### Execution
